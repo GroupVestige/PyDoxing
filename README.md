@@ -23,10 +23,14 @@ This tool automates the collection of publicly available data from select social
 
 
 ### Disclaimer  
-**This tool is strictly for educational and authorized research purposes.**  
+**This tool is strictly for educational and authorized research purposes.**
 
-- We **does not condone** unlawful or unethical use.  
+- We **do not condone** unlawful or unethical use.  
 - Users assume **full legal liability** for misuse.  
 - Data collection from platforms must comply with their ToS and applicable laws.  
+- This tool is provided **"as is"**, without any warranty or guarantee of any kind, express or implied.  
+- The authors/developers make no representation regarding the safety, effectiveness, or suitability of the tool.  
+- **The tool may contain code that is incomplete, unstable, or potentially harmful.**  
+- **Users should thoroughly inspect and understand the code before execution.**  
 
-**DO NOT DEPLOY THIS TOOL WITHOUT EXPLICIT PERMISSION FROM ALL AFFECTED PARTIES.**  
+**DO NOT DEPLOY THIS TOOL WITHOUT EXPLICIT PERMISSION FROM ALL AFFECTED PARTIES.**
